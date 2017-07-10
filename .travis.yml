@@ -1,0 +1,13 @@
+language: python
+python:
+  - "3.6"
+
+sudo: false
+dist: trusty
+
+install: "pip install -r requirements.txt"
+
+script: pytest tests/testSample.py
+
+notifications: 
+  email: false
