@@ -1,11 +1,12 @@
 # Running in Python (100m sprint)
 
-[![Build Status](https://travis-ci.org/atrestis/RunningInPython.svg?branch=master)](https://travis-ci.org/atrestis/RunningInPython)
+[![Build Status](https://travis-ci.org/atrestis/PythonMiniGames.svg?branch=master)](https://travis-ci.org/atrestis/PythonMiniGames)
 [![Discord Contribution](https://img.shields.io/badge/Discord-Contribution-blue.svg?branch=master)](https://discord.gg/36ZDpPY)
 
 ## What is this repo about?
 
- - Fun mini game in python
+ - Fun mini games in python
+ - Credits to usingpython.com
 
 ## Tools Used 
 
