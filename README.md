@@ -5,8 +5,8 @@
 
 ## What is this repo about?
 
- - Fun mini games in python
- - Credits to usingpython.com
+ - Fun mini games in python provided in a CLI
+ - Credits to usingpython.com (for the mini games)
 
 ## Tools Used 
 
